@@ -20,7 +20,8 @@ contract DataTypes {
       return choice;
    }
    function getDefaultChoice() public pure returns (uint) {
-      return uint(defaultChoice);
+      return uin\'
+      t(defaultChoice);
    }
 
 
